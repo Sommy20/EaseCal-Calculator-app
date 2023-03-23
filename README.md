@@ -1,12 +1,12 @@
 # ALX Frontend Final Project - EaseCal Calculator web app
 
-![Calculator](/EaseCal Calculator design.png)
+![EaseCal Calculator design](https://user-images.githubusercontent.com/99337372/227312435-af5ede2e-a33a-409b-98c3-9e383d101789.png)
 
 ---
 Project: Calculator Web App\
 Languages used: HTML & CSS & JS\
 
-Demo : [Demo](https://easecal-calculator-app.netlify.app//)\
+Demo : Demo (https://easecal-calculator-app.netlify.app//)\
 ---
 
 ### Project Brief
