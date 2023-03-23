@@ -6,7 +6,7 @@
 Project: Calculator Web App\
 Languages used: HTML & CSS & JS\
 
-Demo : Demo (https://easecal-calculator-app.netlify.app//)\
+Demo : [Demo](https://easecal-calculator-app.netlify.app//)\
 ---
 
 ### Project Brief
